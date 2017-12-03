@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OOP</string>
+    <string-array name="shapes">
+        <item>Circle</item>
+        <item>Rectangle</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
